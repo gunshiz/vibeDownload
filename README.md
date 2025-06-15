@@ -11,5 +11,14 @@ A simple Node.js-powered tool to download YouTube videos in the highest availabl
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/gunshiz/vibeDownload
+
+```
+### 2. Install dependencies
+```bash
+npm install youtube-dl-exec sanitize-filename
+```
+
+## 🛠 Usage
+Click on download.bat to start
+Then paste your Youtube Video URL
