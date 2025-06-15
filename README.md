@@ -1,2 +1,15 @@
-# vibeDownload
-Youtube video downloader
+# 🎬 Vibe YouTube Video Downloader
+
+A simple Node.js-powered tool to download YouTube videos in the highest available quality (up to 1080p60) directly to your computer.
+
+> 📁 All downloaded videos are saved in the `downloads/` folder.
+
+---
+
+## 📦 Installation
+
+### 1. Clone this repo
+
+```bash
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
